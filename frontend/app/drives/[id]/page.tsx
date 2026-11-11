@@ -6,9 +6,7 @@ import { getDrive, checkEligibility } from "@/lib/api";
 import { loadProfile, formatDeadline } from "@/lib/utils";
 import Link from "next/link";
 
-export const dynamic = "force-dynamic";
-
-export default function DriveDetailPage() {
+function DriveDetailPage() {
   const params = useParams<{ id: string }>();
   const [drive, setDrive] = useState<Drive | null>(null);
   const [eligibility, setEligibility] = useState<EligibilityResult | null>(null);
@@ -136,3 +134,5 @@ export default function DriveDetailPage() {
     </div>
   );
 }
+
+export default DriveDetailPage;
