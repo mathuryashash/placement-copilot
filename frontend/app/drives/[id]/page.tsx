@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { DriveDetailClient } from "./components/client";
 
 // Return a non-matching ID to satisfy cache-components requirement
@@ -7,5 +8,9 @@ export async function generateStaticParams() {
 }
 
 export default function DriveDetailPage() {
-  return <DriveDetailClient />;
+  return (
+    <Suspense fallback={<p className="text-sm text-gray-400">Loading drive...</p>}>
+      <DriveDetailClient />
+    </Suspense>
+  );
 }
