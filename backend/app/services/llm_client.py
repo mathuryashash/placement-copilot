@@ -71,12 +71,12 @@ def fake_llm_call(messages: list[dict], context: str = "") -> str:
     for msg in messages:
         if msg.get("role") == "user" and "extract" in msg.get("content", "").lower():
             return json.dumps(FAKE_DRIVE_JSON)
-    
+
     # Check if context is empty (no relevant corpus results)
     # This makes the refusal behavior testable
     if "[notice:" not in context and "[NOTICE:" not in context:
         return "I don't have that information in the placement notices I have."
-    
+
     # Default: a generic answer using context
     return "Based on the placement notices in the corpus, I can answer your question."
 

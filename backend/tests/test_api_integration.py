@@ -23,7 +23,7 @@ def set_db_url():
     os.environ["FAKE_LLM"] = "true"
 
 
-@pytest_asyncio.fixture(scope="session")
+@pytest_asyncio.fixture(scope="session", loop_scope="session")
 async def app_client(set_db_url):
     import importlib
 
@@ -58,14 +58,14 @@ Apply at: https://nexora.example.com/careers
 """
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_health(app_client):
     resp = await app_client.get("/health")
     assert resp.status_code == 200
     assert resp.json()["status"] == "ok"
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_ingest_text(app_client):
     resp = await app_client.post(
         "/api/v1/ingest/text",
@@ -77,7 +77,7 @@ async def test_ingest_text(app_client):
     assert data["notice_id"].startswith("notice_")
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_chat_after_ingest(app_client):
     await app_client.post(
         "/api/v1/ingest/text",
@@ -96,21 +96,21 @@ async def test_chat_after_ingest(app_client):
     assert "citations" in data
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_drives_list(app_client):
     resp = await app_client.get("/api/v1/drives")
     assert resp.status_code == 200
     assert isinstance(resp.json(), list)
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_deadlines_list(app_client):
     resp = await app_client.get("/api/v1/deadlines")
     assert resp.status_code == 200
     assert isinstance(resp.json(), list)
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_ingest_text_too_large(app_client):
     big_text = "x" * 200_000
     resp = await app_client.post(
@@ -120,7 +120,7 @@ async def test_ingest_text_too_large(app_client):
     assert resp.status_code == 413
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_feedback_endpoint(app_client):
     resp = await app_client.post(
         "/api/v1/feedback",
@@ -129,7 +129,7 @@ async def test_feedback_endpoint(app_client):
     assert resp.status_code == 200
 
 
-@pytest.mark.asyncio
+@pytest.mark.asyncio(loop_scope="session")
 async def test_eligibility_drive_not_found(app_client):
     resp = await app_client.post(
         "/api/v1/drives/nonexistent_drive_id/eligibility",

@@ -2,7 +2,6 @@
 from __future__ import annotations
 
 import io
-import os
 
 import pytest
 
@@ -13,18 +12,18 @@ def test_parse_pdf_fixture():
         from pypdf import PdfWriter
     except ImportError:
         pytest.skip("pypdf not available")
-    
+
     # Create a simple synthetic PDF in memory
     writer = PdfWriter()
-    page = writer.add_blank_page(width=200, height=200)
-    
+    writer.add_blank_page(width=200, height=200)
+
     # Write to bytes
     buffer = io.BytesIO()
     writer.write(buffer)
     pdf_bytes = buffer.getvalue()
-    
+
     assert len(pdf_bytes) > 0
-    
+
     # Parse it
     from app.services.parser import parse_pdf
     text = parse_pdf(pdf_bytes)
@@ -100,12 +99,12 @@ Application Link: https://codematrix.example.com/apply
 def test_parse_file_dispatch():
     """Test file type dispatch based on extension."""
     from app.services.parser import parse_file
-    
+
     # Test .txt dispatch
     txt_bytes = b"Test notice content for .txt"
     result = parse_file("notice.txt", txt_bytes)
     assert "Test notice content" in result
-    
+
     # Test .eml dispatch
     eml_bytes = b"""From: test@example.com
 Subject: Test
