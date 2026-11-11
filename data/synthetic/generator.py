@@ -97,7 +97,10 @@ def generate_drive_record(seed: int | None = None) -> dict:
     reg_deadline = _random_date(7, 30)
     test_date = reg_deadline + timedelta(days=random.randint(3, 10))
 
-    notice_id = f"synthetic_{uuid.uuid4().hex[:12]}"
+    # Deterministic ID: content-based hash of company + role + dates (not random UUID)
+    # This ensures re-ingestion produces the same notice_id for the same logical drive
+    hash_key = f"{company_data['name']}:{role}:{reg_deadline.isoformat()}".encode()
+    notice_id = "synthetic_" + hashlib.sha256(hash_key).hexdigest()[:16]
 
     rounds = [
         {"name": "Online Aptitude Test", "description": "Quant, verbal, logical reasoning", "date_hint": _fmt_dt(test_date)},

@@ -88,7 +88,7 @@ async def chat_endpoint(req: ChatRequest, request: Request):
         },
     ]
 
-    answer = call_llm(messages, max_tokens=512)
+    answer = call_llm(messages, max_tokens=512, context=context)
 
     is_refusal = REFUSAL_PHRASE.lower() in answer.lower()
 
@@ -123,7 +123,7 @@ async def chat_stream_endpoint(req: ChatRequest, request: Request):
 
     async def generate() -> AsyncGenerator[str, None]:
         if not chunks:
-            yield f"data: {json.dumps({'delta': REFUSAL_PHRASE, 'done': True, 'citations': []})}\n\n"
+            yield f"data: {json.dumps({'delta': REFUSAL_PHRASE, 'done': True, 'citations': []})}\\n\\n"
             return
 
         context = "\n\n---\n\n".join(
@@ -138,7 +138,7 @@ async def chat_stream_endpoint(req: ChatRequest, request: Request):
         ]
 
         # Non-streaming LLM call, chunked manually for SSE
-        answer = call_llm(messages, max_tokens=512)
+        answer = call_llm(messages, max_tokens=512, context=context)
         citations = [
             {"notice_id": c["notice_id"], "chunk_text": c["text"][:200]}
             for c in chunks
@@ -153,7 +153,7 @@ async def chat_stream_endpoint(req: ChatRequest, request: Request):
                 "done": is_done,
                 "citations": citations if is_done else [],
             }
-            yield f"data: {json.dumps(payload)}\n\n"
+            yield f"data: {json.dumps(payload)}\\n\\n"
 
     return StreamingResponse(generate(), media_type="text/event-stream")
 

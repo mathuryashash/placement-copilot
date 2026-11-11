@@ -62,13 +62,22 @@ FAKE_DRIVE_JSON = {
 }
 
 
-def fake_llm_call(messages: list[dict]) -> str:
-    """Return a deterministic stub response for tests."""
+def fake_llm_call(messages: list[dict], context: str = "") -> str:
+    """
+    Return a deterministic stub response for tests.
+    Routes based on message content and can refuse when context is empty.
+    """
     # Look for a "user" message that asks for JSON extraction
     for msg in messages:
         if msg.get("role") == "user" and "extract" in msg.get("content", "").lower():
             return json.dumps(FAKE_DRIVE_JSON)
-    # Default: a generic answer
+    
+    # Check if context is empty (no relevant corpus results)
+    # This makes the refusal behavior testable
+    if "[notice:" not in context and "[NOTICE:" not in context:
+        return "I don't have that information in the placement notices I have."
+    
+    # Default: a generic answer using context
     return "Based on the placement notices in the corpus, I can answer your question."
 
 
@@ -107,13 +116,15 @@ def call_llm(
     messages: list[dict],
     max_tokens: int = 1024,
     use_cache: bool = True,
+    context: str = "",
 ) -> str:
     """
     Call LLM: fake mode -> Groq -> Gemini fallback.
     Responses are cached to disk to stay within the 300-call eval budget.
+    context: optional context string for fake mode to detect refusal scenarios
     """
     if settings.fake_llm:
-        return fake_llm_call(messages)
+        return fake_llm_call(messages, context=context)
 
     cache_key = _cache_key("llm", messages)
     if use_cache:
