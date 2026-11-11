@@ -9,6 +9,7 @@ This data is SYNTHETIC — labeled throughout. Never uses real company data.
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import random
 import uuid
