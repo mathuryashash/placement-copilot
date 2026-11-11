@@ -6,8 +6,10 @@ import { getDrive, checkEligibility } from "@/lib/api";
 import { loadProfile, formatDeadline } from "@/lib/utils";
 import Link from "next/link";
 
-// Mark as dynamic; params only available at runtime
-export const dynamicParams = true;
+// Opt out of static generation for this dynamic route
+export async function generateStaticParams() {
+  return [];
+}
 
 export default function DriveDetailPage() {
   const params = useParams<{ id: string }>();
