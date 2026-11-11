@@ -16,7 +16,7 @@ Bullets based on verified numbers from VERIFY.md only.
 
 **Backend:** Python 3.12, FastAPI, asyncpg, pgvector, PostgreSQL, fastembed, ONNX, BAAI/bge-small-en-v1.5, Groq API, Gemini API, RRF (Reciprocal Rank Fusion), BM25, vector search, hybrid retrieval, pydantic, pytest, testcontainers, ruff
 
-**Frontend:** Next.js 15, TypeScript, Tailwind CSS, App Router, vitest, localStorage
+**Frontend:** Next.js 16, TypeScript, Tailwind CSS, App Router, vitest, localStorage
 
 **Infrastructure:** Docker, pgvector/pgvector:pg17, Render (config only), Vercel (config notes), GitHub Actions CI
 
