@@ -1,0 +1,23 @@
+{
+  "setup": {
+    "fake_llm": true,
+    "corpus_size": 20,
+    "golden_questions": 108,
+    "model": "fake",
+    "hardware": "laptop (synthetic data, no real corpus)"
+  },
+  "extraction/company_accuracy": 0.0,
+  "extraction/role_accuracy": 0.0,
+  "extraction/ctc_lpa_accuracy": 0.0,
+  "extraction/locations_accuracy": 0.05,
+  "extraction/cgpa_accuracy": 0.2,
+  "extraction/total_records": 20,
+  "retrieval/recall_at_5": 0.0,
+  "retrieval/mrr": 0.0,
+  "retrieval/n_questions": 100,
+  "answers/correctness": 0.02,
+  "answers/refusal_accuracy": 0.0,
+  "answers/citation_accuracy": 0.0,
+  "answers/n_answerable": 50,
+  "answers/n_unanswerable": 0
+}

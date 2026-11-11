@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+*.egg
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Local scratch
+.scratch/
+*.scratch
+
+# Docker
+.docker/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files / build artifacts
+*.pkl
+*.bin
+*.onnx
+# but allow small fixtures
+!tests/fixtures/**
+
+# HuggingFace / fastembed cache
+hf_cache/
+fastembed_cache/
+
+# LLM response cache (gitignored but created at runtime)
+llm_cache/
+
+# Logs
+*.log
+logs/
+
+# Playwright
+playwright-report/
+test-results/

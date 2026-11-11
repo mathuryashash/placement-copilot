@@ -1,0 +1,25 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+asyncpg==0.30.0
+psycopg[binary]==3.2.3
+pgvector==0.3.6
+fastembed==0.4.1
+httpx==0.28.1
+python-multipart==0.0.20
+icalendar==6.1.0
+ratelimit==2.2.1
+slowapi==0.1.9
+# LLM
+groq==0.13.1
+google-generativeai==0.8.3
+# parsing
+pypdf==5.1.0
+python-dateutil==2.9.0.post0
+# dev / test
+pytest==8.3.4
+pytest-asyncio==0.24.0
+pytest-httpx==0.35.0
+testcontainers[postgres]==4.9.0
+ruff==0.8.6

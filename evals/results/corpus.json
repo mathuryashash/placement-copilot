@@ -1,0 +1,1641 @@
+[
+  {
+    "record": {
+      "id": "synthetic_770555b9faab",
+      "company": "Qubitex AI",
+      "role": "ML Engineer",
+      "ctc_lpa": 25.3,
+      "stipend_pm": null,
+      "locations": [
+        "Hyderabad"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.5,
+        "allowed_branches": [
+          "CV",
+          "CSE",
+          "ME"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2025,
+          2027
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-26T01:15:25.646762+05:30",
+      "test_date": "2026-11-29T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "29 November 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://qubitexai.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_770555b9faab"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Qubitex AI drive is here!!\n\nrole - ML Engineer\npackage - 25.3 lpa\ncities - Hyderabad\n\neligiblity (important plz read):\ncgpa >= 6.5 (no relaxation)\nbranches: CV / CSE / ME\nbacklogs: max 0\nbatch: 2025, 2027\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 26 November 2026, 01:15 AM IST\nlink: https://qubitexai.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": [
+      {
+        "record": {
+          "id": "synthetic_770555b9faab",
+          "company": "Qubitex AI",
+          "role": "ML Engineer",
+          "ctc_lpa": 25.3,
+          "stipend_pm": null,
+          "locations": [
+            "Hyderabad"
+          ],
+          "eligibility": {
+            "min_cgpa": 6.5,
+            "allowed_branches": [
+              "CV",
+              "CSE",
+              "ME"
+            ],
+            "max_backlogs": 0,
+            "grad_years": [
+              2025,
+              2027
+            ],
+            "extra_notes": ""
+          },
+          "registration_deadline": "2026-11-30T01:15:25.646762+05:30",
+          "test_date": "2026-11-29T01:15:25.646762+05:30",
+          "rounds": [
+            {
+              "name": "Online Aptitude Test",
+              "description": "Quant, verbal, logical reasoning",
+              "date_hint": "29 November 2026, 01:15 AM IST"
+            },
+            {
+              "name": "Coding Round",
+              "description": "2-3 programming problems",
+              "date_hint": ""
+            },
+            {
+              "name": "Technical Interview",
+              "description": "DSA, system design, project discussion",
+              "date_hint": ""
+            },
+            {
+              "name": "HR Interview",
+              "description": "Culture fit, compensation discussion",
+              "date_hint": ""
+            }
+          ],
+          "links": [
+            "https://qubitexai.example.com/careers/apply"
+          ],
+          "notice_ids": [
+            "synthetic_770555b9faab"
+          ],
+          "amendments": []
+        },
+        "text": "[SYNTHETIC AMENDMENT]\nIMPORTANT: The registration deadline for Qubitex AI - ML Engineer has been EXTENDED.\nOld deadline: 26 November 2026, 01:15 AM IST\nNew deadline: 30 November 2026, 01:15 AM IST\nAll other details remain unchanged.",
+        "field": "deadline"
+      }
+    ]
+  },
+  {
+    "record": {
+      "id": "synthetic_9d687548138f",
+      "company": "Nexora Systems",
+      "role": "DevOps Engineer",
+      "ctc_lpa": 24.1,
+      "stipend_pm": null,
+      "locations": [
+        "Chennai",
+        "Mumbai",
+        "Pune"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.5,
+        "allowed_branches": [
+          "CV",
+          "CSE",
+          "EEE",
+          "ECE"
+        ],
+        "max_backlogs": 1,
+        "grad_years": [
+          2027,
+          2025
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-08T01:15:25.646762+05:30",
+      "test_date": "2026-12-17T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "17 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://nexorasystems.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_9d687548138f"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Nexora Systems | DevOps Engineer\n\nDear Students,\n\nWe are pleased to inform you that Nexora Systems, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Nexora Systems\nROLE: DevOps Engineer\nCTC: 24.1 LPA\nLOCATION(S): Chennai, Mumbai, Pune\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 6.5\n- Eligible Branches: CV, CSE, EEE, ECE\n- Active Backlogs: Maximum 1 allowed\n- Graduation Year: 2027, 2025\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (17 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n\nREGISTRATION DEADLINE: 08 December 2026, 01:15 AM IST\nApply here: https://nexorasystems.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_a5ceacf87941",
+      "company": "Veritas Analytics",
+      "role": "Data Engineer",
+      "ctc_lpa": 20.1,
+      "stipend_pm": null,
+      "locations": [
+        "Remote"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.0,
+        "allowed_branches": [
+          "ISE",
+          "ECE",
+          "CSE",
+          "EEE",
+          "ME"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2025
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-05T01:15:25.646762+05:30",
+      "test_date": "2026-12-12T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "12 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://veritasanalytics.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_a5ceacf87941"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Veritas Analytics drive is here!!\n\nrole - Data Engineer\npackage - 20.1 lpa\ncities - Remote\n\neligiblity (important plz read):\ncgpa >= 6.0 (no relaxation)\nbranches: ISE / ECE / CSE / EEE / ME\nbacklogs: max 0\nbatch: 2025\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 05 December 2026, 01:15 AM IST\nlink: https://veritasanalytics.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      },
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Veritas Analytics | Data Engineer\n\nDear Students,\n\nWe are pleased to inform you that Veritas Analytics, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Veritas Analytics\nROLE: Data Engineer\nCTC: 20.1 LPA\nLOCATION(S): Remote\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 6.0\n- Eligible Branches: ISE, ECE, CSE, EEE, ME\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2025\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (12 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n  4. HR Interview: Culture fit, compensation discussion\n\nREGISTRATION DEADLINE: 05 December 2026, 01:15 AM IST\nApply here: https://veritasanalytics.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_b4a0cfbc88a1",
+      "company": "Helix Robotics",
+      "role": "Robotics Software Engineer",
+      "ctc_lpa": 18.7,
+      "stipend_pm": null,
+      "locations": [
+        "Pune"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.0,
+        "allowed_branches": [
+          "CSE",
+          "CV",
+          "EEE",
+          "ME"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-12T01:15:25.646762+05:30",
+      "test_date": "2026-12-15T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "15 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://helixrobotics.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_b4a0cfbc88a1"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Helix Robotics | Robotics Software Engineer\n\nDear Students,\n\nWe are pleased to inform you that Helix Robotics, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Helix Robotics\nROLE: Robotics Software Engineer\nCTC: 18.7 LPA\nLOCATION(S): Pune\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 6.0\n- Eligible Branches: CSE, CV, EEE, ME\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2026\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (15 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n  4. HR Interview: Culture fit, compensation discussion\n\nREGISTRATION DEADLINE: 12 December 2026, 01:15 AM IST\nApply here: https://helixrobotics.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": [
+      {
+        "record": {
+          "id": "synthetic_b4a0cfbc88a1",
+          "company": "Helix Robotics",
+          "role": "Robotics Software Engineer",
+          "ctc_lpa": 18.7,
+          "stipend_pm": null,
+          "locations": [
+            "Pune"
+          ],
+          "eligibility": {
+            "min_cgpa": 6.0,
+            "allowed_branches": [
+              "CSE",
+              "CV",
+              "EEE",
+              "ME"
+            ],
+            "max_backlogs": 0,
+            "grad_years": [
+              2026
+            ],
+            "extra_notes": ""
+          },
+          "registration_deadline": "2026-12-16T01:15:25.646762+05:30",
+          "test_date": "2026-12-15T01:15:25.646762+05:30",
+          "rounds": [
+            {
+              "name": "Online Aptitude Test",
+              "description": "Quant, verbal, logical reasoning",
+              "date_hint": "15 December 2026, 01:15 AM IST"
+            },
+            {
+              "name": "Coding Round",
+              "description": "2-3 programming problems",
+              "date_hint": ""
+            },
+            {
+              "name": "Technical Interview",
+              "description": "DSA, system design, project discussion",
+              "date_hint": ""
+            },
+            {
+              "name": "HR Interview",
+              "description": "Culture fit, compensation discussion",
+              "date_hint": ""
+            }
+          ],
+          "links": [
+            "https://helixrobotics.example.com/careers/apply"
+          ],
+          "notice_ids": [
+            "synthetic_b4a0cfbc88a1"
+          ],
+          "amendments": []
+        },
+        "text": "[SYNTHETIC AMENDMENT]\nIMPORTANT: The registration deadline for Helix Robotics - Robotics Software Engineer has been EXTENDED.\nOld deadline: 12 December 2026, 01:15 AM IST\nNew deadline: 16 December 2026, 01:15 AM IST\nAll other details remain unchanged.",
+        "field": "deadline"
+      }
+    ]
+  },
+  {
+    "record": {
+      "id": "synthetic_c7741fb368a1",
+      "company": "Qubitex AI",
+      "role": "Data Scientist",
+      "ctc_lpa": 7.0,
+      "stipend_pm": null,
+      "locations": [
+        "Mumbai"
+      ],
+      "eligibility": {
+        "min_cgpa": 8.0,
+        "allowed_branches": [
+          "ISE",
+          "ME",
+          "CSE",
+          "EEE",
+          "ECE",
+          "CV"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2025
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-28T01:15:25.646762+05:30",
+      "test_date": "2026-12-06T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "06 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://qubitexai.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_c7741fb368a1"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Qubitex AI drive is here!!\n\nrole - Data Scientist\npackage - 7.0 lpa\ncities - Mumbai\n\neligiblity (important plz read):\ncgpa >= 8.0 (no relaxation)\nbranches: ISE / ME / CSE / EEE / ECE / CV\nbacklogs: max 0\nbatch: 2025\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 28 November 2026, 01:15 AM IST\nlink: https://qubitexai.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_52ebc30c8bf9",
+      "company": "Cloudmapper Inc.",
+      "role": "Backend Engineer",
+      "ctc_lpa": 17.2,
+      "stipend_pm": null,
+      "locations": [
+        "Bengaluru",
+        "Remote",
+        "Delhi NCR"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.5,
+        "allowed_branches": [
+          "ECE",
+          "ME",
+          "EEE",
+          "ISE"
+        ],
+        "max_backlogs": 2,
+        "grad_years": [
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-27T01:15:25.646762+05:30",
+      "test_date": "2026-12-07T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "07 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://cloudmapperinc..example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_52ebc30c8bf9"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Cloudmapper Inc. drive is here!!\n\nrole - Backend Engineer\npackage - 17.2 lpa\ncities - Bengaluru, Remote, Delhi NCR\n\neligiblity (important plz read):\ncgpa >= 7.5 (no relaxation)\nbranches: ECE / ME / EEE / ISE\nbacklogs: max 2\nbatch: 2026\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 27 November 2026, 01:15 AM IST\nlink: https://cloudmapperinc..example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": [
+      {
+        "record": {
+          "id": "synthetic_52ebc30c8bf9",
+          "company": "Cloudmapper Inc.",
+          "role": "Backend Engineer",
+          "ctc_lpa": 17.2,
+          "stipend_pm": null,
+          "locations": [
+            "Bengaluru",
+            "Remote",
+            "Delhi NCR"
+          ],
+          "eligibility": {
+            "min_cgpa": 7.0,
+            "allowed_branches": [
+              "ECE",
+              "ME",
+              "EEE",
+              "ISE"
+            ],
+            "max_backlogs": 2,
+            "grad_years": [
+              2026
+            ],
+            "extra_notes": ""
+          },
+          "registration_deadline": "2026-11-27T01:15:25.646762+05:30",
+          "test_date": "2026-12-07T01:15:25.646762+05:30",
+          "rounds": [
+            {
+              "name": "Online Aptitude Test",
+              "description": "Quant, verbal, logical reasoning",
+              "date_hint": "07 December 2026, 01:15 AM IST"
+            },
+            {
+              "name": "Coding Round",
+              "description": "2-3 programming problems",
+              "date_hint": ""
+            },
+            {
+              "name": "Technical Interview",
+              "description": "DSA, system design, project discussion",
+              "date_hint": ""
+            },
+            {
+              "name": "HR Interview",
+              "description": "Culture fit, compensation discussion",
+              "date_hint": ""
+            }
+          ],
+          "links": [
+            "https://cloudmapperinc..example.com/careers/apply"
+          ],
+          "notice_ids": [
+            "synthetic_52ebc30c8bf9"
+          ],
+          "amendments": []
+        },
+        "text": "[SYNTHETIC AMENDMENT]\nCORRIGENDUM: Minimum CGPA requirement for Cloudmapper Inc. - Backend Engineer has been revised.\nRevised CGPA: 7.0 (was 7.5)\nRegistration deadline remains 27 November 2026, 01:15 AM IST.",
+        "field": "cgpa"
+      }
+    ]
+  },
+  {
+    "record": {
+      "id": "synthetic_cbf83d62d5f9",
+      "company": "Cloudmapper Inc.",
+      "role": "Backend Engineer",
+      "ctc_lpa": 20.5,
+      "stipend_pm": null,
+      "locations": [
+        "Mumbai",
+        "Remote",
+        "Hyderabad"
+      ],
+      "eligibility": {
+        "min_cgpa": 8.0,
+        "allowed_branches": [
+          "ISE",
+          "EEE",
+          "CV",
+          "CSE",
+          "ECE",
+          "ME"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2025
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-04T01:15:25.646762+05:30",
+      "test_date": "2026-12-10T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "10 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://cloudmapperinc..example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_cbf83d62d5f9"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Cloudmapper Inc. drive is here!!\n\nrole - Backend Engineer\npackage - 20.5 lpa\ncities - Mumbai, Remote, Hyderabad\n\neligiblity (important plz read):\ncgpa >= 8.0 (no relaxation)\nbranches: ISE / EEE / CV / CSE / ECE / ME\nbacklogs: max 0\nbatch: 2025\n\nrounds: Online Aptitude Test -> Coding Round\n\nREGISTER BY: 04 December 2026, 01:15 AM IST\nlink: https://cloudmapperinc..example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_f1bc3d96538c",
+      "company": "Qubitex AI",
+      "role": "Data Scientist",
+      "ctc_lpa": 16.7,
+      "stipend_pm": null,
+      "locations": [
+        "Mumbai",
+        "Remote",
+        "Hyderabad"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.0,
+        "allowed_branches": [
+          "ME",
+          "CSE",
+          "CV",
+          "ECE",
+          "ISE",
+          "EEE"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2027,
+          2025
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-08T01:15:25.646762+05:30",
+      "test_date": "2026-12-15T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "15 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://qubitexai.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_f1bc3d96538c"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Qubitex AI drive is here!!\n\nrole - Data Scientist\npackage - 16.7 lpa\ncities - Mumbai, Remote, Hyderabad\n\neligiblity (important plz read):\ncgpa >= 6.0 (no relaxation)\nbranches: ME / CSE / CV / ECE / ISE / EEE\nbacklogs: max 0\nbatch: 2027, 2025\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 08 December 2026, 01:15 AM IST\nlink: https://qubitexai.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      },
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Qubitex AI | Data Scientist\n\nDear Students,\n\nWe are pleased to inform you that Qubitex AI, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Qubitex AI\nROLE: Data Scientist\nCTC: 16.7 LPA\nLOCATION(S): Mumbai, Remote, Hyderabad\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 6.0\n- Eligible Branches: ME, CSE, CV, ECE, ISE, EEE\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2027, 2025\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (15 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n  4. HR Interview: Culture fit, compensation discussion\n\nREGISTRATION DEADLINE: 08 December 2026, 01:15 AM IST\nApply here: https://qubitexai.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": [
+      {
+        "record": {
+          "id": "synthetic_f1bc3d96538c",
+          "company": "Qubitex AI",
+          "role": "Data Scientist",
+          "ctc_lpa": 16.7,
+          "stipend_pm": null,
+          "locations": [
+            "Mumbai",
+            "Remote",
+            "Hyderabad"
+          ],
+          "eligibility": {
+            "min_cgpa": 5.5,
+            "allowed_branches": [
+              "ME",
+              "CSE",
+              "CV",
+              "ECE",
+              "ISE",
+              "EEE"
+            ],
+            "max_backlogs": 0,
+            "grad_years": [
+              2027,
+              2025
+            ],
+            "extra_notes": ""
+          },
+          "registration_deadline": "2026-12-08T01:15:25.646762+05:30",
+          "test_date": "2026-12-15T01:15:25.646762+05:30",
+          "rounds": [
+            {
+              "name": "Online Aptitude Test",
+              "description": "Quant, verbal, logical reasoning",
+              "date_hint": "15 December 2026, 01:15 AM IST"
+            },
+            {
+              "name": "Coding Round",
+              "description": "2-3 programming problems",
+              "date_hint": ""
+            },
+            {
+              "name": "Technical Interview",
+              "description": "DSA, system design, project discussion",
+              "date_hint": ""
+            },
+            {
+              "name": "HR Interview",
+              "description": "Culture fit, compensation discussion",
+              "date_hint": ""
+            }
+          ],
+          "links": [
+            "https://qubitexai.example.com/careers/apply"
+          ],
+          "notice_ids": [
+            "synthetic_f1bc3d96538c"
+          ],
+          "amendments": []
+        },
+        "text": "[SYNTHETIC AMENDMENT]\nCORRIGENDUM: Minimum CGPA requirement for Qubitex AI - Data Scientist has been revised.\nRevised CGPA: 5.5 (was 6.0)\nRegistration deadline remains 08 December 2026, 01:15 AM IST.",
+        "field": "cgpa"
+      }
+    ]
+  },
+  {
+    "record": {
+      "id": "synthetic_cf2d1c3d4a2b",
+      "company": "Orion Cybersec",
+      "role": "Penetration Tester",
+      "ctc_lpa": 15.5,
+      "stipend_pm": null,
+      "locations": [
+        "Remote",
+        "Bengaluru"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.5,
+        "allowed_branches": [
+          "CSE",
+          "ME",
+          "ECE",
+          "CV"
+        ],
+        "max_backlogs": 1,
+        "grad_years": [
+          2025
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-30T01:15:25.646762+05:30",
+      "test_date": "2026-12-08T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "08 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://orioncybersec.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_cf2d1c3d4a2b"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Orion Cybersec | Penetration Tester\n\nDear Students,\n\nWe are pleased to inform you that Orion Cybersec, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Orion Cybersec\nROLE: Penetration Tester\nCTC: 15.5 LPA\nLOCATION(S): Remote, Bengaluru\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 6.5\n- Eligible Branches: CSE, ME, ECE, CV\n- Active Backlogs: Maximum 1 allowed\n- Graduation Year: 2025\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (08 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n\nREGISTRATION DEADLINE: 30 November 2026, 01:15 AM IST\nApply here: https://orioncybersec.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_2bdd015eb719",
+      "company": "Brightwave Tech",
+      "role": "Software Development Engineer",
+      "ctc_lpa": 12.4,
+      "stipend_pm": null,
+      "locations": [
+        "Pune",
+        "Chennai"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.5,
+        "allowed_branches": [
+          "EEE",
+          "ME",
+          "CV",
+          "ECE"
+        ],
+        "max_backlogs": 2,
+        "grad_years": [
+          2027,
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-11T01:15:25.646762+05:30",
+      "test_date": "2026-12-14T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "14 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://brightwavetech.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_2bdd015eb719"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Brightwave Tech drive is here!!\n\nrole - Software Development Engineer\npackage - 12.4 lpa\ncities - Pune, Chennai\n\neligiblity (important plz read):\ncgpa >= 6.5 (no relaxation)\nbranches: EEE / ME / CV / ECE\nbacklogs: max 2\nbatch: 2027, 2026\n\nrounds: Online Aptitude Test -> Coding Round\n\nREGISTER BY: 11 December 2026, 01:15 AM IST\nlink: https://brightwavetech.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_0ca183dd55f7",
+      "company": "Helix Robotics",
+      "role": "Embedded Systems Engineer",
+      "ctc_lpa": 28.9,
+      "stipend_pm": null,
+      "locations": [
+        "Delhi NCR",
+        "Bengaluru"
+      ],
+      "eligibility": {
+        "min_cgpa": 8.0,
+        "allowed_branches": [
+          "EEE",
+          "CSE",
+          "ISE",
+          "ME"
+        ],
+        "max_backlogs": 1,
+        "grad_years": [
+          2025,
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-20T01:15:25.646762+05:30",
+      "test_date": "2026-11-29T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "29 November 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://helixrobotics.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_0ca183dd55f7"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Helix Robotics | Embedded Systems Engineer\n\nDear Students,\n\nWe are pleased to inform you that Helix Robotics, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Helix Robotics\nROLE: Embedded Systems Engineer\nCTC: 28.9 LPA\nLOCATION(S): Delhi NCR, Bengaluru\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 8.0\n- Eligible Branches: EEE, CSE, ISE, ME\n- Active Backlogs: Maximum 1 allowed\n- Graduation Year: 2025, 2026\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (29 November 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n\nREGISTRATION DEADLINE: 20 November 2026, 01:15 AM IST\nApply here: https://helixrobotics.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": [
+      {
+        "record": {
+          "id": "synthetic_0ca183dd55f7",
+          "company": "Helix Robotics",
+          "role": "Embedded Systems Engineer",
+          "ctc_lpa": 28.9,
+          "stipend_pm": null,
+          "locations": [
+            "Delhi NCR",
+            "Bengaluru"
+          ],
+          "eligibility": {
+            "min_cgpa": 8.0,
+            "allowed_branches": [
+              "EEE",
+              "CSE",
+              "ISE",
+              "ME"
+            ],
+            "max_backlogs": 1,
+            "grad_years": [
+              2025,
+              2026
+            ],
+            "extra_notes": ""
+          },
+          "registration_deadline": "2026-11-26T01:15:25.646762+05:30",
+          "test_date": "2026-11-29T01:15:25.646762+05:30",
+          "rounds": [
+            {
+              "name": "Online Aptitude Test",
+              "description": "Quant, verbal, logical reasoning",
+              "date_hint": "29 November 2026, 01:15 AM IST"
+            },
+            {
+              "name": "Coding Round",
+              "description": "2-3 programming problems",
+              "date_hint": ""
+            },
+            {
+              "name": "Technical Interview",
+              "description": "DSA, system design, project discussion",
+              "date_hint": ""
+            }
+          ],
+          "links": [
+            "https://helixrobotics.example.com/careers/apply"
+          ],
+          "notice_ids": [
+            "synthetic_0ca183dd55f7"
+          ],
+          "amendments": []
+        },
+        "text": "[SYNTHETIC AMENDMENT]\nIMPORTANT: The registration deadline for Helix Robotics - Embedded Systems Engineer has been EXTENDED.\nOld deadline: 20 November 2026, 01:15 AM IST\nNew deadline: 26 November 2026, 01:15 AM IST\nAll other details remain unchanged.",
+        "field": "deadline"
+      }
+    ]
+  },
+  {
+    "record": {
+      "id": "synthetic_abdf1c6b59c5",
+      "company": "Brightwave Tech",
+      "role": "Platform Engineer",
+      "ctc_lpa": 19.1,
+      "stipend_pm": null,
+      "locations": [
+        "Hyderabad",
+        "Pune",
+        "Bengaluru"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.5,
+        "allowed_branches": [
+          "CV",
+          "EEE",
+          "CSE",
+          "ME"
+        ],
+        "max_backlogs": 2,
+        "grad_years": [
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-24T01:15:25.646762+05:30",
+      "test_date": "2026-11-27T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "27 November 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://brightwavetech.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_abdf1c6b59c5"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Brightwave Tech drive is here!!\n\nrole - Platform Engineer\npackage - 19.1 lpa\ncities - Hyderabad, Pune, Bengaluru\n\neligiblity (important plz read):\ncgpa >= 7.5 (no relaxation)\nbranches: CV / EEE / CSE / ME\nbacklogs: max 2\nbatch: 2026\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview\n\nREGISTER BY: 24 November 2026, 01:15 AM IST\nlink: https://brightwavetech.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": [
+      {
+        "record": {
+          "id": "synthetic_abdf1c6b59c5",
+          "company": "Brightwave Tech",
+          "role": "Platform Engineer",
+          "ctc_lpa": 19.1,
+          "stipend_pm": null,
+          "locations": [
+            "Hyderabad",
+            "Pune",
+            "Bengaluru"
+          ],
+          "eligibility": {
+            "min_cgpa": 7.0,
+            "allowed_branches": [
+              "CV",
+              "EEE",
+              "CSE",
+              "ME"
+            ],
+            "max_backlogs": 2,
+            "grad_years": [
+              2026
+            ],
+            "extra_notes": ""
+          },
+          "registration_deadline": "2026-11-24T01:15:25.646762+05:30",
+          "test_date": "2026-11-27T01:15:25.646762+05:30",
+          "rounds": [
+            {
+              "name": "Online Aptitude Test",
+              "description": "Quant, verbal, logical reasoning",
+              "date_hint": "27 November 2026, 01:15 AM IST"
+            },
+            {
+              "name": "Coding Round",
+              "description": "2-3 programming problems",
+              "date_hint": ""
+            },
+            {
+              "name": "Technical Interview",
+              "description": "DSA, system design, project discussion",
+              "date_hint": ""
+            }
+          ],
+          "links": [
+            "https://brightwavetech.example.com/careers/apply"
+          ],
+          "notice_ids": [
+            "synthetic_abdf1c6b59c5"
+          ],
+          "amendments": []
+        },
+        "text": "[SYNTHETIC AMENDMENT]\nCORRIGENDUM: Minimum CGPA requirement for Brightwave Tech - Platform Engineer has been revised.\nRevised CGPA: 7.0 (was 7.5)\nRegistration deadline remains 24 November 2026, 01:15 AM IST.",
+        "field": "cgpa"
+      }
+    ]
+  },
+  {
+    "record": {
+      "id": "synthetic_5a807593f72b",
+      "company": "Terralogic Solutions",
+      "role": "Full Stack Developer",
+      "ctc_lpa": 20.5,
+      "stipend_pm": null,
+      "locations": [
+        "Bengaluru"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.5,
+        "allowed_branches": [
+          "ISE",
+          "EEE",
+          "ECE",
+          "ME",
+          "CV"
+        ],
+        "max_backlogs": 1,
+        "grad_years": [
+          2027
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-04T01:15:25.646762+05:30",
+      "test_date": "2026-12-14T01:15:25.646762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "14 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://terralogicsolutions.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_5a807593f72b"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Terralogic Solutions drive is here!!\n\nrole - Full Stack Developer\npackage - 20.5 lpa\ncities - Bengaluru\n\neligiblity (important plz read):\ncgpa >= 7.5 (no relaxation)\nbranches: ISE / EEE / ECE / ME / CV\nbacklogs: max 1\nbatch: 2027\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 04 December 2026, 01:15 AM IST\nlink: https://terralogicsolutions.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_82ea90896556",
+      "company": "Qubitex AI",
+      "role": "ML Engineer",
+      "ctc_lpa": 9.9,
+      "stipend_pm": null,
+      "locations": [
+        "Mumbai",
+        "Chennai"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.0,
+        "allowed_branches": [
+          "ECE",
+          "CSE",
+          "CV"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2027,
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-29T01:15:25.647762+05:30",
+      "test_date": "2026-12-08T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "08 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://qubitexai.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_82ea90896556"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Qubitex AI drive is here!!\n\nrole - ML Engineer\npackage - 9.9 lpa\ncities - Mumbai, Chennai\n\neligiblity (important plz read):\ncgpa >= 7.0 (no relaxation)\nbranches: ECE / CSE / CV\nbacklogs: max 0\nbatch: 2027, 2026\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 29 November 2026, 01:15 AM IST\nlink: https://qubitexai.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_230390a0b1a4",
+      "company": "Nexora Systems",
+      "role": "DevOps Engineer",
+      "ctc_lpa": 23.0,
+      "stipend_pm": null,
+      "locations": [
+        "Hyderabad",
+        "Bengaluru",
+        "Mumbai"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.0,
+        "allowed_branches": [
+          "CV",
+          "ISE",
+          "CSE",
+          "ME",
+          "EEE"
+        ],
+        "max_backlogs": 2,
+        "grad_years": [
+          2027,
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-25T01:15:25.647762+05:30",
+      "test_date": "2026-11-28T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "28 November 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://nexorasystems.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_230390a0b1a4"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Nexora Systems drive is here!!\n\nrole - DevOps Engineer\npackage - 23.0 lpa\ncities - Hyderabad, Bengaluru, Mumbai\n\neligiblity (important plz read):\ncgpa >= 7.0 (no relaxation)\nbranches: CV / ISE / CSE / ME / EEE\nbacklogs: max 2\nbatch: 2027, 2026\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 25 November 2026, 01:15 AM IST\nlink: https://nexorasystems.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_108ff900f0b7",
+      "company": "Nexora Systems",
+      "role": "DevOps Engineer",
+      "ctc_lpa": 21.3,
+      "stipend_pm": null,
+      "locations": [
+        "Pune",
+        "Chennai",
+        "Delhi NCR"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.0,
+        "allowed_branches": [
+          "ECE",
+          "EEE",
+          "CV",
+          "ISE",
+          "ME",
+          "CSE"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2027
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-22T01:15:25.647762+05:30",
+      "test_date": "2026-12-02T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "02 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://nexorasystems.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_108ff900f0b7"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Nexora Systems | DevOps Engineer\n\nDear Students,\n\nWe are pleased to inform you that Nexora Systems, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Nexora Systems\nROLE: DevOps Engineer\nCTC: 21.3 LPA\nLOCATION(S): Pune, Chennai, Delhi NCR\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 6.0\n- Eligible Branches: ECE, EEE, CV, ISE, ME, CSE\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2027\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (02 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n  4. HR Interview: Culture fit, compensation discussion\n\nREGISTRATION DEADLINE: 22 November 2026, 01:15 AM IST\nApply here: https://nexorasystems.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      },
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Nexora Systems drive is here!!\n\nrole - DevOps Engineer\npackage - 21.3 lpa\ncities - Pune, Chennai, Delhi NCR\n\neligiblity (important plz read):\ncgpa >= 6.0 (no relaxation)\nbranches: ECE / EEE / CV / ISE / ME / CSE\nbacklogs: max 0\nbatch: 2027\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview -> HR Interview\n\nREGISTER BY: 22 November 2026, 01:15 AM IST\nlink: https://nexorasystems.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_08c994a96d52",
+      "company": "Brightwave Tech",
+      "role": "Software Development Engineer",
+      "ctc_lpa": 25.2,
+      "stipend_pm": null,
+      "locations": [
+        "Chennai",
+        "Pune",
+        "Mumbai"
+      ],
+      "eligibility": {
+        "min_cgpa": 6.5,
+        "allowed_branches": [
+          "EEE",
+          "CV",
+          "ECE"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2026,
+          2027
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-22T01:15:25.647762+05:30",
+      "test_date": "2026-11-25T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "25 November 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://brightwavetech.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_08c994a96d52"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA]\n---------- Forwarded message ----------\n\nguys Brightwave Tech drive is here!!\n\nrole - Software Development Engineer\npackage - 25.2 lpa\ncities - Chennai, Pune, Mumbai\n\neligiblity (important plz read):\ncgpa >= 6.5 (no relaxation)\nbranches: EEE / CV / ECE\nbacklogs: max 0\nbatch: 2026, 2027\n\nrounds: Online Aptitude Test -> Coding Round -> Technical Interview\n\nREGISTER BY: 22 November 2026, 01:15 AM IST\nlink: https://brightwavetech.example.com/careers/apply\n\ndont miss it, deadline is strict!!",
+        "format": "informal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_b649e618da9d",
+      "company": "Brightwave Tech",
+      "role": "Software Development Engineer",
+      "ctc_lpa": 30.2,
+      "stipend_pm": null,
+      "locations": [
+        "Pune",
+        "Hyderabad",
+        "Mumbai"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.5,
+        "allowed_branches": [
+          "ECE",
+          "CSE",
+          "ME"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2026,
+          2027
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-29T01:15:25.647762+05:30",
+      "test_date": "2026-12-04T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "04 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://brightwavetech.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_b649e618da9d"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Brightwave Tech | Software Development Engineer\n\nDear Students,\n\nWe are pleased to inform you that Brightwave Tech, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Brightwave Tech\nROLE: Software Development Engineer\nCTC: 30.2 LPA\nLOCATION(S): Pune, Hyderabad, Mumbai\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 7.5\n- Eligible Branches: ECE, CSE, ME\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2026, 2027\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (04 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n  4. HR Interview: Culture fit, compensation discussion\n\nREGISTRATION DEADLINE: 29 November 2026, 01:15 AM IST\nApply here: https://brightwavetech.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_255502f4433a",
+      "company": "Helix Robotics",
+      "role": "Robotics Software Engineer",
+      "ctc_lpa": 21.0,
+      "stipend_pm": null,
+      "locations": [
+        "Hyderabad"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.0,
+        "allowed_branches": [
+          "EEE",
+          "ECE",
+          "CSE",
+          "CV",
+          "ME"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-12-09T01:15:25.647762+05:30",
+      "test_date": "2026-12-12T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "12 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://helixrobotics.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_255502f4433a"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Helix Robotics | Robotics Software Engineer\n\nDear Students,\n\nWe are pleased to inform you that Helix Robotics, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Helix Robotics\nROLE: Robotics Software Engineer\nCTC: 21.0 LPA\nLOCATION(S): Hyderabad\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 7.0\n- Eligible Branches: EEE, ECE, CSE, CV, ME\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2026\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (12 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n\nREGISTRATION DEADLINE: 09 December 2026, 01:15 AM IST\nApply here: https://helixrobotics.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": []
+  },
+  {
+    "record": {
+      "id": "synthetic_33eaeb1e06d6",
+      "company": "Orion Cybersec",
+      "role": "Security Engineer",
+      "ctc_lpa": 20.5,
+      "stipend_pm": null,
+      "locations": [
+        "Pune",
+        "Hyderabad"
+      ],
+      "eligibility": {
+        "min_cgpa": 7.0,
+        "allowed_branches": [
+          "CV",
+          "CSE",
+          "EEE",
+          "ISE"
+        ],
+        "max_backlogs": 0,
+        "grad_years": [
+          2025,
+          2026
+        ],
+        "extra_notes": ""
+      },
+      "registration_deadline": "2026-11-29T01:15:25.647762+05:30",
+      "test_date": "2026-12-02T01:15:25.647762+05:30",
+      "rounds": [
+        {
+          "name": "Online Aptitude Test",
+          "description": "Quant, verbal, logical reasoning",
+          "date_hint": "02 December 2026, 01:15 AM IST"
+        },
+        {
+          "name": "Coding Round",
+          "description": "2-3 programming problems",
+          "date_hint": ""
+        },
+        {
+          "name": "Technical Interview",
+          "description": "DSA, system design, project discussion",
+          "date_hint": ""
+        },
+        {
+          "name": "HR Interview",
+          "description": "Culture fit, compensation discussion",
+          "date_hint": ""
+        }
+      ],
+      "links": [
+        "https://orioncybersec.example.com/careers/apply"
+      ],
+      "notice_ids": [
+        "synthetic_33eaeb1e06d6"
+      ],
+      "amendments": []
+    },
+    "notices": [
+      {
+        "text": "[SYNTHETIC DATA - Training/Demo Only]\nSubject: Placement Drive Notification - Orion Cybersec | Security Engineer\n\nDear Students,\n\nWe are pleased to inform you that Orion Cybersec, a leading company in the\ntechnology sector, will be conducting campus recruitment.\n\nCOMPANY: Orion Cybersec\nROLE: Security Engineer\nCTC: 20.5 LPA\nLOCATION(S): Pune, Hyderabad\n\nELIGIBILITY CRITERIA:\n- Minimum CGPA: 7.0\n- Eligible Branches: CV, CSE, EEE, ISE\n- Active Backlogs: Maximum 0 allowed\n- Graduation Year: 2025, 2026\n\nSELECTION PROCESS:\n  1. Online Aptitude Test: Quant, verbal, logical reasoning (02 December 2026, 01:15 AM IST)\n  2. Coding Round: 2-3 programming problems\n  3. Technical Interview: DSA, system design, project discussion\n  4. HR Interview: Culture fit, compensation discussion\n\nREGISTRATION DEADLINE: 29 November 2026, 01:15 AM IST\nApply here: https://orioncybersec.example.com/careers/apply\n\nInterested students must register through the placement portal before the deadline.\nThis is SYNTHETIC data generated for demonstration purposes only.\n\nRegards,\nPlacement Cell (Fictional)",
+        "format": "formal"
+      }
+    ],
+    "amendments": []
+  }
+]

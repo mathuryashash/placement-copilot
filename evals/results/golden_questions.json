@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "q000",
+    "question": "What is the minimum CGPA required for Qubitex AI?",
+    "expected_contains": [
+      "6.5"
+    ],
+    "notice_ids": [
+      "synthetic_770555b9faab"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q001",
+    "question": "What is the package offered by Qubitex AI for the ML Engineer role?",
+    "expected_contains": [
+      "25.3",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_770555b9faab"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q002",
+    "question": "When is the registration deadline for Qubitex AI?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_770555b9faab"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q003",
+    "question": "Where are the job locations for Qubitex AI ML Engineer?",
+    "expected_contains": [
+      "Hyderabad"
+    ],
+    "notice_ids": [
+      "synthetic_770555b9faab"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q004",
+    "question": "Which branches are eligible for the Qubitex AI drive?",
+    "expected_contains": [
+      "CV"
+    ],
+    "notice_ids": [
+      "synthetic_770555b9faab"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q005",
+    "question": "What is the minimum CGPA required for Nexora Systems?",
+    "expected_contains": [
+      "6.5"
+    ],
+    "notice_ids": [
+      "synthetic_9d687548138f"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q006",
+    "question": "What is the package offered by Nexora Systems for the DevOps Engineer role?",
+    "expected_contains": [
+      "24.1",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_9d687548138f"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q007",
+    "question": "When is the registration deadline for Nexora Systems?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_9d687548138f"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q008",
+    "question": "Where are the job locations for Nexora Systems DevOps Engineer?",
+    "expected_contains": [
+      "Chennai"
+    ],
+    "notice_ids": [
+      "synthetic_9d687548138f"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q009",
+    "question": "Which branches are eligible for the Nexora Systems drive?",
+    "expected_contains": [
+      "CV"
+    ],
+    "notice_ids": [
+      "synthetic_9d687548138f"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q010",
+    "question": "What is the minimum CGPA required for Veritas Analytics?",
+    "expected_contains": [
+      "6.0"
+    ],
+    "notice_ids": [
+      "synthetic_a5ceacf87941"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q011",
+    "question": "What is the package offered by Veritas Analytics for the Data Engineer role?",
+    "expected_contains": [
+      "20.1",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_a5ceacf87941"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q012",
+    "question": "When is the registration deadline for Veritas Analytics?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_a5ceacf87941"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q013",
+    "question": "Where are the job locations for Veritas Analytics Data Engineer?",
+    "expected_contains": [
+      "Remote"
+    ],
+    "notice_ids": [
+      "synthetic_a5ceacf87941"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q014",
+    "question": "Which branches are eligible for the Veritas Analytics drive?",
+    "expected_contains": [
+      "ISE"
+    ],
+    "notice_ids": [
+      "synthetic_a5ceacf87941"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q015",
+    "question": "What is the minimum CGPA required for Helix Robotics?",
+    "expected_contains": [
+      "6.0"
+    ],
+    "notice_ids": [
+      "synthetic_b4a0cfbc88a1"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q016",
+    "question": "What is the package offered by Helix Robotics for the Robotics Software Engineer role?",
+    "expected_contains": [
+      "18.7",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_b4a0cfbc88a1"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q017",
+    "question": "When is the registration deadline for Helix Robotics?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_b4a0cfbc88a1"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q018",
+    "question": "Where are the job locations for Helix Robotics Robotics Software Engineer?",
+    "expected_contains": [
+      "Pune"
+    ],
+    "notice_ids": [
+      "synthetic_b4a0cfbc88a1"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q019",
+    "question": "Which branches are eligible for the Helix Robotics drive?",
+    "expected_contains": [
+      "CSE"
+    ],
+    "notice_ids": [
+      "synthetic_b4a0cfbc88a1"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q020",
+    "question": "What is the minimum CGPA required for Qubitex AI?",
+    "expected_contains": [
+      "8.0"
+    ],
+    "notice_ids": [
+      "synthetic_c7741fb368a1"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q021",
+    "question": "What is the package offered by Qubitex AI for the Data Scientist role?",
+    "expected_contains": [
+      "7.0",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_c7741fb368a1"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q022",
+    "question": "When is the registration deadline for Qubitex AI?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_c7741fb368a1"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q023",
+    "question": "Where are the job locations for Qubitex AI Data Scientist?",
+    "expected_contains": [
+      "Mumbai"
+    ],
+    "notice_ids": [
+      "synthetic_c7741fb368a1"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q024",
+    "question": "Which branches are eligible for the Qubitex AI drive?",
+    "expected_contains": [
+      "ISE"
+    ],
+    "notice_ids": [
+      "synthetic_c7741fb368a1"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q025",
+    "question": "What is the minimum CGPA required for Cloudmapper Inc.?",
+    "expected_contains": [
+      "7.5"
+    ],
+    "notice_ids": [
+      "synthetic_52ebc30c8bf9"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q026",
+    "question": "What is the package offered by Cloudmapper Inc. for the Backend Engineer role?",
+    "expected_contains": [
+      "17.2",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_52ebc30c8bf9"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q027",
+    "question": "When is the registration deadline for Cloudmapper Inc.?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_52ebc30c8bf9"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q028",
+    "question": "Where are the job locations for Cloudmapper Inc. Backend Engineer?",
+    "expected_contains": [
+      "Bengaluru"
+    ],
+    "notice_ids": [
+      "synthetic_52ebc30c8bf9"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q029",
+    "question": "Which branches are eligible for the Cloudmapper Inc. drive?",
+    "expected_contains": [
+      "ECE"
+    ],
+    "notice_ids": [
+      "synthetic_52ebc30c8bf9"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q030",
+    "question": "What is the minimum CGPA required for Cloudmapper Inc.?",
+    "expected_contains": [
+      "8.0"
+    ],
+    "notice_ids": [
+      "synthetic_cbf83d62d5f9"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q031",
+    "question": "What is the package offered by Cloudmapper Inc. for the Backend Engineer role?",
+    "expected_contains": [
+      "20.5",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_cbf83d62d5f9"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q032",
+    "question": "When is the registration deadline for Cloudmapper Inc.?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_cbf83d62d5f9"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q033",
+    "question": "Where are the job locations for Cloudmapper Inc. Backend Engineer?",
+    "expected_contains": [
+      "Mumbai"
+    ],
+    "notice_ids": [
+      "synthetic_cbf83d62d5f9"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q034",
+    "question": "Which branches are eligible for the Cloudmapper Inc. drive?",
+    "expected_contains": [
+      "ISE"
+    ],
+    "notice_ids": [
+      "synthetic_cbf83d62d5f9"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q035",
+    "question": "What is the minimum CGPA required for Qubitex AI?",
+    "expected_contains": [
+      "6.0"
+    ],
+    "notice_ids": [
+      "synthetic_f1bc3d96538c"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q036",
+    "question": "What is the package offered by Qubitex AI for the Data Scientist role?",
+    "expected_contains": [
+      "16.7",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_f1bc3d96538c"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q037",
+    "question": "When is the registration deadline for Qubitex AI?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_f1bc3d96538c"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q038",
+    "question": "Where are the job locations for Qubitex AI Data Scientist?",
+    "expected_contains": [
+      "Mumbai"
+    ],
+    "notice_ids": [
+      "synthetic_f1bc3d96538c"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q039",
+    "question": "Which branches are eligible for the Qubitex AI drive?",
+    "expected_contains": [
+      "ME"
+    ],
+    "notice_ids": [
+      "synthetic_f1bc3d96538c"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q040",
+    "question": "What is the minimum CGPA required for Orion Cybersec?",
+    "expected_contains": [
+      "6.5"
+    ],
+    "notice_ids": [
+      "synthetic_cf2d1c3d4a2b"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q041",
+    "question": "What is the package offered by Orion Cybersec for the Penetration Tester role?",
+    "expected_contains": [
+      "15.5",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_cf2d1c3d4a2b"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q042",
+    "question": "When is the registration deadline for Orion Cybersec?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_cf2d1c3d4a2b"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q043",
+    "question": "Where are the job locations for Orion Cybersec Penetration Tester?",
+    "expected_contains": [
+      "Remote"
+    ],
+    "notice_ids": [
+      "synthetic_cf2d1c3d4a2b"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q044",
+    "question": "Which branches are eligible for the Orion Cybersec drive?",
+    "expected_contains": [
+      "CSE"
+    ],
+    "notice_ids": [
+      "synthetic_cf2d1c3d4a2b"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q045",
+    "question": "What is the minimum CGPA required for Brightwave Tech?",
+    "expected_contains": [
+      "6.5"
+    ],
+    "notice_ids": [
+      "synthetic_2bdd015eb719"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q046",
+    "question": "What is the package offered by Brightwave Tech for the Software Development Engineer role?",
+    "expected_contains": [
+      "12.4",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_2bdd015eb719"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q047",
+    "question": "When is the registration deadline for Brightwave Tech?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_2bdd015eb719"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q048",
+    "question": "Where are the job locations for Brightwave Tech Software Development Engineer?",
+    "expected_contains": [
+      "Pune"
+    ],
+    "notice_ids": [
+      "synthetic_2bdd015eb719"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q049",
+    "question": "Which branches are eligible for the Brightwave Tech drive?",
+    "expected_contains": [
+      "EEE"
+    ],
+    "notice_ids": [
+      "synthetic_2bdd015eb719"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q050",
+    "question": "What is the minimum CGPA required for Helix Robotics?",
+    "expected_contains": [
+      "8.0"
+    ],
+    "notice_ids": [
+      "synthetic_0ca183dd55f7"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q051",
+    "question": "What is the package offered by Helix Robotics for the Embedded Systems Engineer role?",
+    "expected_contains": [
+      "28.9",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_0ca183dd55f7"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q052",
+    "question": "When is the registration deadline for Helix Robotics?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_0ca183dd55f7"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q053",
+    "question": "Where are the job locations for Helix Robotics Embedded Systems Engineer?",
+    "expected_contains": [
+      "Delhi NCR"
+    ],
+    "notice_ids": [
+      "synthetic_0ca183dd55f7"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q054",
+    "question": "Which branches are eligible for the Helix Robotics drive?",
+    "expected_contains": [
+      "EEE"
+    ],
+    "notice_ids": [
+      "synthetic_0ca183dd55f7"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q055",
+    "question": "What is the minimum CGPA required for Brightwave Tech?",
+    "expected_contains": [
+      "7.5"
+    ],
+    "notice_ids": [
+      "synthetic_abdf1c6b59c5"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q056",
+    "question": "What is the package offered by Brightwave Tech for the Platform Engineer role?",
+    "expected_contains": [
+      "19.1",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_abdf1c6b59c5"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q057",
+    "question": "When is the registration deadline for Brightwave Tech?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_abdf1c6b59c5"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q058",
+    "question": "Where are the job locations for Brightwave Tech Platform Engineer?",
+    "expected_contains": [
+      "Hyderabad"
+    ],
+    "notice_ids": [
+      "synthetic_abdf1c6b59c5"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q059",
+    "question": "Which branches are eligible for the Brightwave Tech drive?",
+    "expected_contains": [
+      "CV"
+    ],
+    "notice_ids": [
+      "synthetic_abdf1c6b59c5"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q060",
+    "question": "What is the minimum CGPA required for Terralogic Solutions?",
+    "expected_contains": [
+      "7.5"
+    ],
+    "notice_ids": [
+      "synthetic_5a807593f72b"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q061",
+    "question": "What is the package offered by Terralogic Solutions for the Full Stack Developer role?",
+    "expected_contains": [
+      "20.5",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_5a807593f72b"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q062",
+    "question": "When is the registration deadline for Terralogic Solutions?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_5a807593f72b"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q063",
+    "question": "Where are the job locations for Terralogic Solutions Full Stack Developer?",
+    "expected_contains": [
+      "Bengaluru"
+    ],
+    "notice_ids": [
+      "synthetic_5a807593f72b"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q064",
+    "question": "Which branches are eligible for the Terralogic Solutions drive?",
+    "expected_contains": [
+      "ISE"
+    ],
+    "notice_ids": [
+      "synthetic_5a807593f72b"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q065",
+    "question": "What is the minimum CGPA required for Qubitex AI?",
+    "expected_contains": [
+      "7.0"
+    ],
+    "notice_ids": [
+      "synthetic_82ea90896556"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q066",
+    "question": "What is the package offered by Qubitex AI for the ML Engineer role?",
+    "expected_contains": [
+      "9.9",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_82ea90896556"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q067",
+    "question": "When is the registration deadline for Qubitex AI?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_82ea90896556"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q068",
+    "question": "Where are the job locations for Qubitex AI ML Engineer?",
+    "expected_contains": [
+      "Mumbai"
+    ],
+    "notice_ids": [
+      "synthetic_82ea90896556"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q069",
+    "question": "Which branches are eligible for the Qubitex AI drive?",
+    "expected_contains": [
+      "ECE"
+    ],
+    "notice_ids": [
+      "synthetic_82ea90896556"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q070",
+    "question": "What is the minimum CGPA required for Nexora Systems?",
+    "expected_contains": [
+      "7.0"
+    ],
+    "notice_ids": [
+      "synthetic_230390a0b1a4"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q071",
+    "question": "What is the package offered by Nexora Systems for the DevOps Engineer role?",
+    "expected_contains": [
+      "23.0",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_230390a0b1a4"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q072",
+    "question": "When is the registration deadline for Nexora Systems?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_230390a0b1a4"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q073",
+    "question": "Where are the job locations for Nexora Systems DevOps Engineer?",
+    "expected_contains": [
+      "Hyderabad"
+    ],
+    "notice_ids": [
+      "synthetic_230390a0b1a4"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q074",
+    "question": "Which branches are eligible for the Nexora Systems drive?",
+    "expected_contains": [
+      "CV"
+    ],
+    "notice_ids": [
+      "synthetic_230390a0b1a4"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q075",
+    "question": "What is the minimum CGPA required for Nexora Systems?",
+    "expected_contains": [
+      "6.0"
+    ],
+    "notice_ids": [
+      "synthetic_108ff900f0b7"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q076",
+    "question": "What is the package offered by Nexora Systems for the DevOps Engineer role?",
+    "expected_contains": [
+      "21.3",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_108ff900f0b7"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q077",
+    "question": "When is the registration deadline for Nexora Systems?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_108ff900f0b7"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q078",
+    "question": "Where are the job locations for Nexora Systems DevOps Engineer?",
+    "expected_contains": [
+      "Pune"
+    ],
+    "notice_ids": [
+      "synthetic_108ff900f0b7"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q079",
+    "question": "Which branches are eligible for the Nexora Systems drive?",
+    "expected_contains": [
+      "ECE"
+    ],
+    "notice_ids": [
+      "synthetic_108ff900f0b7"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q080",
+    "question": "What is the minimum CGPA required for Brightwave Tech?",
+    "expected_contains": [
+      "6.5"
+    ],
+    "notice_ids": [
+      "synthetic_08c994a96d52"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q081",
+    "question": "What is the package offered by Brightwave Tech for the Software Development Engineer role?",
+    "expected_contains": [
+      "25.2",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_08c994a96d52"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q082",
+    "question": "When is the registration deadline for Brightwave Tech?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_08c994a96d52"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q083",
+    "question": "Where are the job locations for Brightwave Tech Software Development Engineer?",
+    "expected_contains": [
+      "Chennai"
+    ],
+    "notice_ids": [
+      "synthetic_08c994a96d52"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q084",
+    "question": "Which branches are eligible for the Brightwave Tech drive?",
+    "expected_contains": [
+      "EEE"
+    ],
+    "notice_ids": [
+      "synthetic_08c994a96d52"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q085",
+    "question": "What is the minimum CGPA required for Brightwave Tech?",
+    "expected_contains": [
+      "7.5"
+    ],
+    "notice_ids": [
+      "synthetic_b649e618da9d"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q086",
+    "question": "What is the package offered by Brightwave Tech for the Software Development Engineer role?",
+    "expected_contains": [
+      "30.2",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_b649e618da9d"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q087",
+    "question": "When is the registration deadline for Brightwave Tech?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_b649e618da9d"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q088",
+    "question": "Where are the job locations for Brightwave Tech Software Development Engineer?",
+    "expected_contains": [
+      "Pune"
+    ],
+    "notice_ids": [
+      "synthetic_b649e618da9d"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q089",
+    "question": "Which branches are eligible for the Brightwave Tech drive?",
+    "expected_contains": [
+      "ECE"
+    ],
+    "notice_ids": [
+      "synthetic_b649e618da9d"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q090",
+    "question": "What is the minimum CGPA required for Helix Robotics?",
+    "expected_contains": [
+      "7.0"
+    ],
+    "notice_ids": [
+      "synthetic_255502f4433a"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q091",
+    "question": "What is the package offered by Helix Robotics for the Robotics Software Engineer role?",
+    "expected_contains": [
+      "21.0",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_255502f4433a"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q092",
+    "question": "When is the registration deadline for Helix Robotics?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_255502f4433a"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q093",
+    "question": "Where are the job locations for Helix Robotics Robotics Software Engineer?",
+    "expected_contains": [
+      "Hyderabad"
+    ],
+    "notice_ids": [
+      "synthetic_255502f4433a"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q094",
+    "question": "Which branches are eligible for the Helix Robotics drive?",
+    "expected_contains": [
+      "EEE"
+    ],
+    "notice_ids": [
+      "synthetic_255502f4433a"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q095",
+    "question": "What is the minimum CGPA required for Orion Cybersec?",
+    "expected_contains": [
+      "7.0"
+    ],
+    "notice_ids": [
+      "synthetic_33eaeb1e06d6"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q096",
+    "question": "What is the package offered by Orion Cybersec for the Security Engineer role?",
+    "expected_contains": [
+      "20.5",
+      "LPA"
+    ],
+    "notice_ids": [
+      "synthetic_33eaeb1e06d6"
+    ],
+    "type": "answerable",
+    "category": "ctc"
+  },
+  {
+    "id": "q097",
+    "question": "When is the registration deadline for Orion Cybersec?",
+    "expected_contains": [
+      "2026"
+    ],
+    "notice_ids": [
+      "synthetic_33eaeb1e06d6"
+    ],
+    "type": "answerable",
+    "category": "deadline"
+  },
+  {
+    "id": "q098",
+    "question": "Where are the job locations for Orion Cybersec Security Engineer?",
+    "expected_contains": [
+      "Pune"
+    ],
+    "notice_ids": [
+      "synthetic_33eaeb1e06d6"
+    ],
+    "type": "answerable",
+    "category": "location"
+  },
+  {
+    "id": "q099",
+    "question": "Which branches are eligible for the Orion Cybersec drive?",
+    "expected_contains": [
+      "CV"
+    ],
+    "notice_ids": [
+      "synthetic_33eaeb1e06d6"
+    ],
+    "type": "answerable",
+    "category": "eligibility"
+  },
+  {
+    "id": "q100",
+    "question": "What is the bond period for TechDragon Corp?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q101",
+    "question": "Does QuantumLeap Industries offer relocation assistance?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q102",
+    "question": "What is the interview date for StellarMind Technologies?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q103",
+    "question": "Are there any openings at GalaxyCraft for mechanical engineers?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q104",
+    "question": "What is the dress code for the Vortex Systems interview?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q105",
+    "question": "Does NovaStar Inc provide laptop to new hires?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q106",
+    "question": "What is the joining date for Prism Analytics?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  },
+  {
+    "id": "q107",
+    "question": "Are lateral entries allowed for the Blueshift Capital drive?",
+    "expected_contains": [],
+    "notice_ids": [],
+    "type": "unanswerable",
+    "category": "refusal"
+  }
+]
